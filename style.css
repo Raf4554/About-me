@@ -361,3 +361,7 @@ h4 {
 .block{
   display: block;
 }
+
+.multiple-text {
+  color: #e91e63;
+}

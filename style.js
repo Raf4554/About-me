@@ -20,9 +20,8 @@ burgerMenu.addEventListener('click',()=>{
 
 const typed =new Typed('.multiple-text',{
     strings:['Fronted Developer','UI/UX Design'],
-    typeSpeed:100,
-    backSpeed:100,
+    typeSpeed:70,
+    backSpeed:70,
     backDelay:1000,
     loop:true
-
 })

@@ -468,6 +468,8 @@
 @media only screen and (max-width: 320px) {
   .header__burger-btn {
     margin-left: 8rem;
+    width: 35px;
+    height: 35px;
   }
 
   .logo {
@@ -482,6 +484,16 @@
   .h3_animation {
     font-size: 20px;
   }
+
+  .header__burger-btn span {
+    width: 25px;
+    height: 1.5px;
+ }
+
+ img {
+  margin-left: 2.5rem;
+}
+
 }
 
 @media only screen and (max-width: 412px) {

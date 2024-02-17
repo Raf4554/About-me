@@ -124,6 +124,10 @@ h3 {
   cursor: pointer;
 }
 
+
+
+
+
 /* ============================center================================== */
 
 .section_two {
@@ -321,6 +325,14 @@ h4 {
   margin: 0;
   margin-left: 2.2rem;
   margin-top: 1rem;
+}
+
+.a_tel {
+  color: black;
+}
+
+.a_mail {
+  color: black;
 }
 /* ======================================================== */
 
